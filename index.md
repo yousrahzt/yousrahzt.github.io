@@ -1,4 +1,4 @@
-## [Acceuil](https://yousrahzt.github.io)   [Videos]()
+## [Acceuil](https://yousrahzt.github.io)   [Videos](https://yousrahzt.github.io/videos)
 
 
   Elève ingénieur en 4ème année Génie Informatique à l'ENSAT, je vous présente ce Blog contenant des videos mettant en pratique plusieurs volets de l'Administration Système.
@@ -6,7 +6,7 @@
  
   Les videos de ce Blog concernent :
 
-- [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine](https://github.com/yousrahzt/yousrahzt.github.io/blob/master/Active%20Directory)
+- [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
 - [Création de profil utilisateur itinérant]()
 - [Création de profil utilisateur obligatoire]()
 - [Gestion de stratégies de groupe avec GPMC]()
