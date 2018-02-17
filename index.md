@@ -3,7 +3,7 @@
 
   Elève ingénieur en 4ème année Génie Informatique à l'ENSAT, je vous présente ce Blog contenant des videos mettant en pratique plusieurs volets de l'Administration Système.
   
-  ```
+ 
   Les videos de ce Blog concernent :
     - [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
     - [Création d'un profil utilisateur itinérant]()
@@ -13,7 +13,7 @@
     - [Powershell]()
     - [DHCP]()
     
-    ```
+   
     
 ```markdown
 Syntax highlighted code block
