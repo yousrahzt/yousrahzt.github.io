@@ -7,12 +7,12 @@
   Les videos de ce Blog concernent :
   
     - Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine
-    - [Création d'un profil utilisateur itinérant]()
-    - [Création d'un proofil utilisateur obligatoire]()
-    - [Gestion des stratégies de groupe avec GPMC]()
-    - [Stratégies de mot de passe affinée]()
-    - [Powershell]()
-    - [DHCP]()
+    - Création d'un profil utilisateur itinérant
+    - Création d'un profil utilisateur obligatoire
+    - Gestion des stratégies de groupe avec GPMC
+    - Stratégies de mot de passe affinée
+    - Powershell
+    - DHCP
     
    
   
