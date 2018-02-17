@@ -1,14 +1,20 @@
-## [Acceuil](https://yousrahzt.github.io)
+## [Acceuil](https://yousrahzt.github.io)  ## [Videos]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-You can use the [editor on GitHub](https://github.com/yousrahzt/yousrahzt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+  Elève ingénieur en 4ème année Génie Informatique à l'ENSAT, je vous présente ce Blog contenant des videos mettant en pratique plusieurs volets de l'Administration Système.
+  
+  ```
+  Les videos de ce Blog concernent :
+    - [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
+    - [Création d'un profil utilisateur itinérant]()
+    - [Création d'un proofil utilisateur obligatoire]()
+    - [Gestion des stratégies de groupe avec GPMC]()
+    - [Stratégies de mot de passe affinée]()
+    - [Powershell]()
+    - [DHCP]()
+    
+    ```
+    
 ```markdown
 Syntax highlighted code block
 
