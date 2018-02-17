@@ -6,7 +6,7 @@
  
   Les videos de ce Blog concernent :
 
-- [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
+- [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine](https://github.com/yousrahzt/yousrahzt.github.io/blob/master/Active%20Directory)
 - [Création de profil utilisateur itinérant]()
 - [Création de profil utilisateur obligatoire]()
 - [Gestion de stratégies de groupe avec GPMC]()
