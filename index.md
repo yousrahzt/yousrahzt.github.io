@@ -5,8 +5,8 @@
   
  
   Les videos de ce Blog concernent :
-  
-     [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
+
+[Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine]()
     
    
   
