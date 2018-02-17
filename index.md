@@ -4,19 +4,16 @@
   Elève ingénieur en 4ème année Génie Informatique à l'ENSAT, je vous présente ce Blog contenant des videos mettant en pratique plusieurs volets de l'Administration Système.
   
  
-  Les videos de ce Blog concernent :
+  **Les videos de ce Blog concernent :**
 
 - [Déploiement de l'Active Directory sur Windows Server 2016 et ajout d'une machine au domaine](activeDirectory.md)
-- [Création de profil utilisateur itinérant]()
-- [Création de profil utilisateur obligatoire]()
-- [Gestion de stratégies de groupe avec GPMC]()
-- [Stratégie de mot de passe affinée]()
-- [Powershell]()
-- [DHCP]()
+- [Création de profil utilisateur itinérant](itinerant.md)
+- [Création de profil utilisateur obligatoire](obligatoire.md)
+- [Gestion de stratégies de groupe avec GPMC](gpmc.md)
+- [Stratégie de mot de passe affinée](affinee.md)
+- [Powershell](powershell.md)
+- [DHCP](dhcp.md)
    
-  
-  - Bulleted
-  - List
   
  
  
@@ -37,13 +34,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yousrahzt/yousrahzt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
