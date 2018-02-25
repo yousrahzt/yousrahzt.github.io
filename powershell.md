@@ -1,1 +1,1 @@
-<iframe src ="" height = 600 width = 600></iframe>
+<iframe width="100%" height="500px" src=""></iframe>
