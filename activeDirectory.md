@@ -1,1 +1,1 @@
-<iframe src="https://www.google.com" width=500 height=700></iframe>
+<iframe width="100%" height="500px" src="https://www.google.com"></iframe>
